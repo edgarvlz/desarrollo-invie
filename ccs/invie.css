@@ -146,6 +146,10 @@ input:focus, textarea:focus{
   border-radius: 8px;
 }
 
+.guitarra ol li{
+  list-style:none;
+}
+
 .derecha{
   float: right;
   position: relative;
